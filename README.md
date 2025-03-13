@@ -19,6 +19,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 📫 **Find me online:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tugbanur-yurtsever
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tugbanur-yurtsever/
 )
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://app.enhancv.com/share/70472d81/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)  
