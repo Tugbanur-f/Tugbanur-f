@@ -3,13 +3,14 @@
 - 🌍 Living in the Netherlands
 
 - 🚀 **Passionate and driven full-stack developer** with a unique journey from **teaching to tech**, bringing strong **problem-solving skills, patience, and a results-driven mindset.**
+- 🌱 Always open to new opportunities and collaborations!
 
 🌍 **Beyond coding, I love:**
 
 - ✈️ Exploring new cultures & traveling
 - ⛺ Camping in nature with tents & caravans
 - 👥 Working with diverse teams & adapting to new environments
-- 🌱 Always open to new opportunities and collaborations!
+
 
 💻 **Tech Stack:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
