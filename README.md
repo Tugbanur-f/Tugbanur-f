@@ -20,6 +20,5 @@
 
 📫 **Find me online:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tugbanur-yurtsever
-)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tugbanur-f)  
+)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://app.enhancv.com/share/70472d81/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)  
