@@ -1,4 +1,4 @@
-# Hi, I'm Tugbanur1
+## 👋 Hi, I'm Tugbanur!  
 - 🌍 Living in the Netherlands  
 - 🚀 **Passionate and driven full-stack developer** with a unique journey from **teaching to tech**, bringing strong **problem-solving skills, patience, and a results-driven mindset.**  
 
